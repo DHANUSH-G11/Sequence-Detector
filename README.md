@@ -9,7 +9,7 @@
 
   Computer system with a suitable operating system.
 
-Procedure:
+## Procedure:
 
 Launch Vivado 2023.1:
 
@@ -85,7 +85,6 @@ end
 endmodule
 
 ## Testbench for Sequence Detector (Moore FSM):
-
 `timescale 1ns / 1ps
 module sequence_detector_tb; // Inputs 
 reg clk; reg reset; reg seq_in;
