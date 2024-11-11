@@ -29,7 +29,6 @@ Save and Document Results:
 Capture the waveforms and include the results in the final report.
 
 ## Verilog Code for Sequence Detector Using Moore FSM
-
 // moore_sequence_detector.v
 module moore_sequence_detector (
     input wire clk,
@@ -89,7 +88,6 @@ endmodule
 
 
 ## Verilog Code for Sequence Detector Using Mealy FSM
-
 // mealy_sequence_detector.v
 module mealy_sequence_detector (
     input wire clk,
